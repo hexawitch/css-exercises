@@ -1,0 +1,19 @@
+.p-class {
+    background-color: #ee8eb6;
+    font: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    font-size: 36px;
+    color: #1a0bf0
+}
+
+.third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: #aee96b;
+    font-weight: bold;
+    font-size: 24px;
+}
